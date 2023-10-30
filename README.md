@@ -8,7 +8,7 @@
 <%# %> // comment
 <%- include("header.ejs") %> // Insert another EJS file
 ```
-Example
+### Example
 ```
 <!DOCTYPE html>
 <html lang="en">
