@@ -6,5 +6,5 @@
 <%- %> // Render HTML
 <%% %%> // Show <% or %>
 <%# %> // comment
-<%- include("header.ejs) %> // Insert another EJS file
+<%- include("header.ejs") %> // Insert another EJS file
 ```
