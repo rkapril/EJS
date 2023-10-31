@@ -1,4 +1,4 @@
-# EJS
+# EJS (Embedded Javascript)
 ## Tags
 ```
 <%= %> // Output
